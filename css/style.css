@@ -1,0 +1,107 @@
+h1{
+  color: black;
+
+  font-family: 'Sacramento', cursive;
+margin: 20px auto 0 auto;
+font-size: 5.625rem;
+}
+h2{
+  color: #66BFBF;
+font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  padding-bottom: 0;
+  margin: 0;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration:  none;
+
+}
+a:hover{
+color: white;
+}
+
+hr{
+  border: dotted black;
+border-bottom: none;
+width: 4%;
+margin: 100px auto ;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Meeeiweather',serif;
+    color: #40514E
+
+}
+.top-container{
+  background-color: pink ;
+  position: relative;
+  padding-top: 100px;
+font-family: 'Sacramento', cursive;
+}
+.middle-container{
+
+margin: 100px 0;
+}
+.bottom-container{
+background-color: #66BFBF;
+
+padding: 50px 0 20px;
+}
+.footer-link{
+
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.skill-row{
+  margin:  100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+p{
+    line-height: 2;
+}
+.code-img{
+width: 25%;
+float: left;
+margin: 30px;
+}
+.chilli-img{
+  width: 25%;
+  margin: 30px;
+  float: right;
+}
+/*
+.skill-row-discp{
+  clear: left;
+}*/
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-messange{
+  width: 40%;
+  margin: 40px auto 60px ;
+}
+.copy-right{
+  color: black;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
